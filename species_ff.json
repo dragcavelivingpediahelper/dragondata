@@ -19654,7 +19654,7 @@
     "name": "Undead Two-Headed Wyvern",
     "rarity": 5,
     "description": "",
-    "note": "There's one of these for each dragon body type and stage.\nCan only be produced by using the revive option on a dead dragon. Chance of revival is higher at Night, even higher on the 31st of a month, and the highest possible on Halloween's breeding week.",
+    "note": "There's one of these for each dragon body type and stage.\nCan only be produced by using the revive option on a dead dragon. Chance of revival is higher at Night, even higher on the 31st of a month, and the highest possible on Halloween's breeding week",
     "eggs": [],
     "required": {
       "dragon_male": [
