@@ -20073,5 +20073,58 @@
     ],
     "morphology": "standard",
     "body_type": "western"
+  },
+  "1771_preview": {
+    "name": "Undiscovered Dino Species",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "This egg looks like it doesn't belong; it is glossy and covered with white spots",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research. This is a Dino?",
+    "habitats": [
+      "Jungle"
+    ],
+    "eggs": [
+      "i19V20B22O18R22w14019K17G20g22o25A51N13S24U17h15E30c13C19Y12/16618T12X12I20r11s1447Q20q13518J9F20u16d10l13j19915x13y4k16e9L19M12H20v13W11f15t14P5312b14+15z15711Z14m1689n6a14D18113215p10"
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1772_preview": {
+    "name": "Undiscovered September Species",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "Three bold red stripes cut across this egg's shell",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [
+      "Coast",
+      "Forest"
+    ],
+    "eggs": [
+      "i26V22B33O10R15w21017K14G13g32o18A51N12S13U17h16E30c15C25Y18/18626T16X16I29r16s17416Q24l16J22F16u20d14217k20e15+13718y9n13W19Z14x16q22M12P20113v17f13816t17m12z10p10910a16j17L20H15310b16D13513=2"
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
   }
 }
