@@ -20081,18 +20081,23 @@
     "encyclopedia_notyet": 1,
     "rarity": 3,
     "description": "This egg looks like it doesn't belong; it is glossy and covered with white spots",
-    "note": "WIP: This is a Dino.\nCongrats on grabbing one! Uh, if you did. You're not reading this on the Jungle, right?",
+    "note": "WIP: Birdo! Congrats on grabbing one!\nUh, if you did. You're not reading this on the Jungle, right?",
     "habitats": [
       "Jungle"
     ],
     "eggs": [
       "i19V20B22O18R22w14019K17G20g22o25A51N13S24U17h15E30c13C19Y12/16618T12X12I20r11s1447Q20q13518J9F20u16d10l13j19915x13y4k16e9L19M12H20v13W11f15t14P5312b14+15z15711Z14m1689n6a14D18113215p10"
     ],
-    "required": {},
+    "required": {
+      "hatchling": [
+        "i15V13B18O11R14w15015K15G9g22o13A50N11S15U16h18E18I17X6C15Y12x10/11k12r11s7413c11616Q19J14F23+12M18t9y7p13q15T12j9Z6L1191218310e14517b7720v14f927W8u17n9D9z6P5813a10d9H11m8l6=2"
+      ]
+    },
     "sprite_descriptions": {
       "eggs": [
         "Stage 0 Egg"
-      ]
+      ],
+      "hatchling": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
