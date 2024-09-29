@@ -20079,9 +20079,9 @@
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
-    "rarity": 1,
+    "rarity": 3,
     "description": "This egg looks like it doesn't belong; it is glossy and covered with white spots",
-    "note": "WIP: This breed was recently released and information about it is still undergoing research. This is a Dino?",
+    "note": "WIP: This is a Dino.\nCongrats on grabbing one! Uh, if you did. You're not reading this on the Jungle, right?",
     "habitats": [
       "Jungle"
     ],
@@ -20096,9 +20096,11 @@
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
-    "morphology": "",
-    "affinity": [],
-    "body_type": ""
+    "affinity": [
+      "None"
+    ],
+    "morphology": "creature",
+    "body_type": "other"
   },
   "1772_preview": {
     "name": "Undiscovered September Species",
