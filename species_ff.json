@@ -20090,7 +20090,7 @@
     "body_type": "western"
   },
   "1771_preview": {
-    "name": "Undiscovered Dino Species",
+    "name": "Pink Dino",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
@@ -20115,6 +20115,9 @@
       ],
       "hatchling_mature_male": [
         "i26V34B24O22R32w21017K15G16g27o25A55N14S28U34h25E37C33M22n25Y23F26P18I27l24Q29724219L31318a22T20619p24m25e24k22J19t24c29q26+28923/19j14x17y15415H27v24b23823W22X18523r29115u24d16z13f13D24s19Z19"
+      ],
+      "dragon_male": [
+        "i48V53B67O49R44w58043K55G56g59o55A99N44S41U53h46E53M59C64Y58241n29q50m53I45l39Q64445X38u43a44939647Z33P45D49833p36d36541F52k49x46j39r33c42+33T46734336v28L41e30f31W42148/47t46b35H44z37s41J41y40="
       ]
     },
     "sprite_descriptions": {
@@ -20128,7 +20131,8 @@
         "Dead Egg"
       ],
       "hatchling": [],
-      "hatchling_mature_male": []
+      "hatchling_mature_male": [],
+      "dragon_male": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
@@ -20139,13 +20143,13 @@
     "body_type": "other"
   },
   "1772_preview": {
-    "name": "Undiscovered September Species",
+    "name": "Kaiko Dragon",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
     "rarity": 1,
     "description": "Three bold red stripes cut across this egg's shell",
-    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "note": "",
     "habitats": [
       "Coast",
       "Forest"
@@ -20165,6 +20169,9 @@
       ],
       "hatchling_mature_male": [
         "i17V20B21O22R17w16015K16G32g26o18A54N13S22U17h23E17c18C25Y15y12T14Q25/16l17I1952829W16z19b16L17114P14M14F17J15H20D15Z18713v22X22317+8n18f14u17d9a1098p11x17j19618s9420m10814r18k14t13q6e13="
+      ],
+      "dragon_male": [
+        "i126V161B209O190R169w1930207K181G193g203o194A255N201S184U199h165E155Y167r152C181F167Q187f191e1888146l2064162X187u1702174d1869186x1685192n219H178a198p1993174I185y184T185m174q209J206v187D197j218k1621201P164/1917207s165c205z203t172W152b1906177Z211L138+166M196"
       ]
     },
     "sprite_descriptions": {
@@ -20178,7 +20185,8 @@
         "Dead Egg"
       ],
       "hatchling": [],
-      "hatchling_mature_male": []
+      "hatchling_mature_male": [],
+      "dragon_male": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
