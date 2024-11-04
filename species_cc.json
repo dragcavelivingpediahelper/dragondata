@@ -20238,7 +20238,7 @@
     "body_type": "western"
   },
   "1769_pre": {
-    "name": "Halloween 2024",
+    "name": "Quantari Dragon",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
@@ -20261,6 +20261,12 @@
       ],
       "hatchling_mature_male": [
         "i27V34B25O41R38w35034K49G37g31o27A70N34S31U46h35E38C42Q32Y33W37l37j36X28I30r34s24429c28639J37F43f31m34940M29x29330v31n42T32b32z34a36y37k31u40128L31H30t27+41q38524e26229P27p32/32838728D29Z26d31=2"
+      ],
+      "dragon_female": [
+        "i95V125B182O123R115w1320141K101G104g175o119A256N116S126U112h128E158k119C168Y115W101y9711224143Q193X135I159r143s112c1246121F104J132e1307123t107n108212751113111M135p112a113m96j120q100d115v126T133x105P125z128l9891288121+130/141L103u114H132f140Z93b115D120"
+      ],
+      "dragon_male": [
+        "i126V154B152O158R120w1340139K131G106g128o148A178N124S129U140h109E106F1231146C134Y114s140j144u1652115X152I104r1524151c1496173Q138J143e1497143l140n172H1465189x145p109f187a118v153W129z128+155m99L160T138t167k124b130d151q149D128M10491568149/1793175Z109y138P124"
       ]
     },
     "sprite_descriptions": {
@@ -20274,7 +20280,9 @@
         "Dead Egg"
       ],
       "hatchling": [],
-      "hatchling_mature_male": []
+      "hatchling_mature_male": [],
+      "dragon_female": [],
+      "dragon_male": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
