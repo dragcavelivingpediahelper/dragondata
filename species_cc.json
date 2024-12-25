@@ -17622,11 +17622,16 @@
     "eggs": [
       "i18V23B38O18R28w18022K24G15g28o18A54N12S18U26h19E28c29C13Y18/22617T24X22I30r19s16416Q18226J12F16u19d18l19k22125x2181799512D18L13m17j16z17W19b12M23p30t13713y10a17P19+15e20v13q25315f14Z16H11n17=2"
     ],
-    "required": {},
+    "required": {
+      "hatchling": [
+        "i13V9B20O12R10w14011K17G14g30o17A51N10S13U8h11E20c20C21Y15t11410n16W12r9X9I11s10610Q13j11Z7J8F11u15l12110214+15k13D13q16M12m5d14a11520L14/1039y12P17712v19H9x8918e15b6T8f6p7z11813"
+      ]
+    },
     "sprite_descriptions": {
       "eggs": [
         "Stage 0 Egg"
-      ]
+      ],
+      "hatchling": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
