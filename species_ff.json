@@ -17625,6 +17625,30 @@
     ],
     "body_type": "wingless"
   },
+  "1770": {
+    "name": "Holiday 2024",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "A faint light glows from within this egg, as if it holds the essence of a winter night",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i13V26B31O20R22w22014K17G18g25o19A43N25S18U28h18E32c15C22Y23/18621T29D25k22l27Q23I27521222W17H19z17L12t17r18M19P16u13x11J16m26j18q22F14120a19p20b14X12+18720915317f20n13822v11Z15y8d10415s10e11="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
   "-1": {
     "name": "Leetle Tree",
     "hasBSA": false,
