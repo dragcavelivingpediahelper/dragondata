@@ -17626,13 +17626,13 @@
     "body_type": "wingless"
   },
   "1770": {
-    "name": "Holiday 2024",
+    "name": "Noctivellus Dragon",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
     "rarity": 1,
     "description": "A faint light glows from within this egg, as if it holds the essence of a winter night",
-    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "note": "Holiday 2024 - All male.",
     "habitats": [],
     "eggs": [
       "i13V26B31O20R22w22014K17G18g25o19A43N25S18U28h18E32c15C22Y23/18621T29D25k22l27Q23I27521222W17H19z17L12t17r18M19P16u13x11J16m26j18q22F14120a19p20b14X12+18720915317f20n13822v11Z15y8d10415s10e11="
@@ -17640,13 +17640,21 @@
     "required": {
       "hatchling": [
         "i15V13B18O12R5w1607K15G10g17o8A44N12S12U21h7E19c17C19Y16t10412n10W13r13M18k15l14Q18T13517L19z14D14F11711x17q8j19J9y13I13m8111Z1437H17d99767f14+14b10v16/1086211s10X13p10u13a5e5P5=2"
+      ],
+      "dragon_male": [
+        "i113V156B151O156R137w1360131K149G124g138o156A179N125S161U173h118E1594188e145C157Y128D103I145F144W116a125l147Q126X133u1382117d136f1517141H148z137s107r147M128y114t120p152J155j1426143P13611369149c182T135b117q1535141v138+139n1643139k1498146/153Z102L140m109x156="
+      ],
+      "hatchling_mature_male": [
+        "i27V22B23O19R19w18016K18G20g30o19A46N21S26U23h18E20X22C17Y12117F18818Q28D17M28l21I22611213W15H26516e18c17t20u17a11q15L20k20913+11p18Z18J19d10T14s13417b15/11n19m14v16717r16x18y16z13313f13j17P11=2"
       ]
     },
     "sprite_descriptions": {
       "eggs": [
         "Stage 0 Egg"
       ],
-      "hatchling": []
+      "hatchling": [],
+      "dragon_male": [],
+      "hatchling_mature_male": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
