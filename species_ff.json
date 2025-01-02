@@ -17629,8 +17629,7 @@
     "name": "Noctivellus Dragon",
     "hasBSA": false,
     "isHybrid": false,
-    "encyclopedia_notyet": 1,
-    "rarity": 1,
+    "rarity": 4,
     "description": "A faint light glows from within this egg, as if it holds the essence of a winter night",
     "note": "Holiday 2024 - All male.",
     "habitats": [],
@@ -17669,10 +17668,13 @@
       "hatchling_mature_male": []
     },
     "equivalent_sprites": [],
-    "encyclopedia": "",
-    "morphology": "",
-    "affinity": [],
-    "body_type": ""
+    "encyclopedia": "1770-holiday-dragon-2024",
+    "morphology": "two-head",
+    "affinity": [
+      "Time",
+      "Light"
+    ],
+    "body_type": "western"
   },
   "-1": {
     "name": "Leetle Tree",
