@@ -17661,6 +17661,37 @@
     ],
     "body_type": "western"
   },
+  "1771": {
+    "name": "Valentine 2025",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 4,
+    "description": "This egg emits an enchanting glow.",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i20V29B30O19R19w16017K13G22g24o14A58N20S18U23h16E31c17C19Y22/17619T17X20I14r14s9410Q33x16J11F18u21l19220124q12921W17M16D13H14Z20712+13d15y11n11515v13e18z14f19L17k19P18t1986j13p16b15a15312m10=",
+      "i19V22B32O15R27w26021K25G24g29o25A58N25S19U25h24E22c22C36Y28/20622T20X17I31r27s25425Q33+21l24J20F24u30915z20x17714D20t15M25P21p12L24d20H23k25W12222520y25Z19e14810322120m22f18v12b19n17a24j23q15"
+    ],
+    "required": {
+      "hatchling": [
+        "i11V10B20O8R17w14012K13G16g33o10A54N13S18U15h16E21Z14C12Y16r12+858d6X12I14s13415c17611Q11j7113J14F21u15l19k11/11W9813y11M11D11e10z18T11a10b16n4712314L20H14P13v12x6q13m1291325t10f6p3=2"
+      ]
+    },
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg",
+        "Stage 4 Egg"
+      ],
+      "hatchling": []
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
   "-1": {
     "name": "Leetle Tree",
     "hasBSA": false,
