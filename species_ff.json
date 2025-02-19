@@ -17680,7 +17680,6 @@
     "name": "Mousai Dragon",
     "hasBSA": false,
     "isHybrid": false,
-    "encyclopedia_notyet": 1,
     "rarity": 4,
     "description": "This egg emits an enchanting glow",
     "note": "Valentine 2025 Dragon - Female only",
@@ -17718,10 +17717,12 @@
       "hatchling_mature_male": []
     },
     "equivalent_sprites": [],
-    "encyclopedia": "",
-    "morphology": "",
-    "affinity": [],
-    "body_type": ""
+    "encyclopedia": "1771-mousai-dragon",
+    "morphology": "standard",
+    "affinity": [
+      "Water"
+    ],
+    "body_type": "leviathan"
   },
   "-1": {
     "name": "Leetle Tree",
