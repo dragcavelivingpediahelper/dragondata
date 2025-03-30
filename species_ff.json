@@ -17724,6 +17724,56 @@
     ],
     "body_type": "leviathan"
   },
+  "1772": {
+    "name": "March Release - Unknown",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 2,
+    "description": "This egg sits on a pile of soft, golden fur",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i35V31B34O22R36w27028K32G29g35o28A44N35S35U28h25E29c29C28Y32/25628T35F25H28l32Q28I30526W29a28x27X32930t38q28M25e17k32r18y20421+27j38738m28P19124p32230u29L25J29b22335817D35v26z20Z25f23s28n20d28=2"
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1773": {
+    "name": "March Release - Shore",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "This egg washed ashore",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [
+      "Coast"
+    ],
+    "eggs": [
+      "i13V20B24O20R19w22014K17G16g23o25A46N18S21U26h10E17c18C24Y12/16615T14u20k17l18Q22I1858W7X12a9F22x12f16q19Z15j16+15M16P23D11J11z5H15v16m14d14213n11314e15t12b881378r798L8y14419s16112p8="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
   "-1": {
     "name": "Leetle Tree",
     "hasBSA": false,
