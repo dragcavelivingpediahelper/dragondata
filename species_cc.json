@@ -3757,7 +3757,7 @@
     "hasBSA": false,
     "rarity": 1,
     "description": "This egg has a velvety texture",
-    "note": "",
+    "note": "This dragon will produce a ????? Hybrid when bred with a Mistra Dragon.",
     "eggs": [
       "i15V17B23O12R21w16020K20G16g28o20A55N11S20U23h18E20c24C30Y9/16620T10X11I17r18s16415Q31v14p17J17F24u16l13k18924x11821L15b16j17M14q13m13128t16Z12z15210y13P12f13712+20e17d13314n11a21512D17W11H8=2",
       "i18V21B29O14R34w21014K27G19g29o20A52N16S27U32h24E28c27C27Y26/14615T22X19I26r24s18421Q33318d17J28F22u17l19k15v24q15W23z14117M23j13p17L15n13y20x17D15b10518+14211815710919P19H11f13a11t15e12m22Z17",
@@ -3780,6 +3780,9 @@
         "i31V27B31O25R41w28029K25G19g35o28A62N28S32U39h25E37C29Y31130k30W33X26I31r27s19432c19627Q36p26J21F35f26l33939x23+26M30T31223j30u24q29731a32t21L24z27Z28335m35526n24b35H27D29/23823d21v35e21P32y19"
       ]
     },
+    "hasHybrid": [
+      "1772"
+    ],
     "sprite_descriptions": {
       "eggs": [
         "Stage 0 Egg",
@@ -5736,7 +5739,7 @@
       "82",
       "100"
     ],
-    "rarity": 1,
+    "rarity": 2,
     "description": "",
     "note": "This is an Hybrid Dragon. [Purple + Spitfire] Dragons.\nWeirdly, it can produce Spitfire eggs.",
     "habitats": [
@@ -12377,7 +12380,7 @@
     "hasBSA": false,
     "rarity": 1,
     "description": "You hear a soft melody as you approach this egg",
-    "note": "",
+    "note": "This dragon will produce a ????? Hybrid when bred with a Pillow Dragon.",
     "eggs": [
       "i15V19B32O22R20w20022K18G22g37o20A65N32S21U20h22E37c14C37Y21/16625T23X18I25r17s29415Q33717J26F24u23l15t17d23M15920L23116Z26y13m16P19D15813327H13x17n22f21v23220k20+9e18a11W16b23j14p15z16q13516",
       "i27V24B27O20R21w23021K19G16g32o25A69N21S28U24h36E41c29C26Y16/14624T23X22I39r17s24418Q28915Z14J19F20u24l16111m21e23t13814y18z15H26L21b18q19p18224v18316518n22P26x18718f20k22+22W13a17D18j18M15d19=",
@@ -12400,6 +12403,9 @@
         "i28V38B33O34R28w25026K21G36g31o30A67N21S27U33h25E23C33k17Y31D27/29y22a29r34X38I28s25421c23631Q29p35J29F29W27f27m32124x31338817v35L21b41930d27T23+33225j15u38M21e20l20z25532740P20q27n29t17H23Z20=2"
       ]
     },
+    "hasHybrid": [
+      "1772"
+    ],
     "sprite_descriptions": {
       "eggs": [
         "Stage 0 Egg",
@@ -17712,12 +17718,17 @@
   "1772": {
     "name": "March Release - Unknown",
     "hasBSA": false,
-    "isHybrid": false,
+    "isHybrid": [
+      "77",
+      "1667"
+    ],
     "encyclopedia_notyet": 1,
     "rarity": 2,
     "description": "This egg sits on a pile of soft, golden fur",
-    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
-    "habitats": [],
+    "note": "This is an Hybrid Dragon. [Pillow + Mistra] Dragons\nIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [
+      "None"
+    ],
     "eggs": [
       "i27V33B33O32R33w34027K24G28g29o26A46N22S47U33h29E37c28C32Y29/23631T35X20I27r37s30426Q26t34J23F41u31l27m26M30p30b24a31D30127j31Z22f26d16x24L27y26q33229935W25z31v27e25P20n22827+27523H29731322k20"
     ],
