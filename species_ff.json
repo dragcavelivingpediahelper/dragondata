@@ -18226,6 +18226,54 @@
     "affinity": [],
     "body_type": ""
   },
+  "1781": {
+    "name": "June Release Nonbinary",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i18V24B23O18R28w15022K19G21g34o21A49N19S22U23h23E33c18C29Y15/18615T25D21k16l19Q29I16516W20X17H20z23a17p19m34719u19t9n16218q25d18313+9F24819b25M24P18Z15J28v21r22y16421e18j20f16s26114914x10L20"
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1782": {
+    "name": "June Release Jungle",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i21V15B22O11R29w27026K19G22g29o29A59N17S22U19h18E24c18C25Y18/14617T24D19e17l19Q24I27515W20y17916117416F30b26L16Z16s24x19d16u23X12H15j19814M15718J17p18a20v23r15t17n15m17P10323z11k22+14q19218f10"
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
   "-1": {
     "name": "Leetle Tree",
     "hasBSA": false,
