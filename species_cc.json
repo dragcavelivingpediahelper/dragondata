@@ -18436,7 +18436,7 @@
     "body_type": "amphiptere"
   },
   "1785": {
-    "name": "Undiscovered Species",
+    "name": "Miufu Dragon",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
@@ -18459,6 +18459,9 @@
       ],
       "hatchling_mature_male": [
         "i35V22B36O31R32w42042K33G33g44o36A72N38S34U31h30E27C44Q41k34Y35D35J31X30I48r21s24432c30622F28W30e33936l33136M34x29+35d25q36p37a26y33z23834j32n30236323m22/29t30Z29b27T25P39v31f24L32u16524727H34="
+      ],
+      "dragon_male": [
+        "i87V95B119O126R103w1440122K106G120g161o109A216N137S85U112h95E97F111k110C123Y128D126t10571035116z114c118X116I88r97s11541016112Q137J107e121W111u151M157Z1073999105/1058126p130q1112127H126b108a122x111j1301103P120l114L109m129v113d109T107f87n119+91y103"
       ]
     },
     "sprite_descriptions": {
@@ -18472,7 +18475,8 @@
         "Dead Egg"
       ],
       "hatchling": [],
-      "hatchling_mature_male": []
+      "hatchling_mature_male": [],
+      "dragon_male": []
     },
     "equivalent_sprites": [],
     "encyclopedia": "",
