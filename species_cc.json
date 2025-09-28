@@ -21164,5 +21164,101 @@
     ],
     "morphology": "standard",
     "body_type": "western"
+  },
+  "1786_pre_fragile": {
+    "name": "September Release Regular",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "Moonlight ripples across this fragile egg's shell",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i8V13B22O19R23w14016K22G17g30o19A57N11S14U12h9E20c17C18Y10/17613T16X10I17r13s17417Q13p12J10F18u15l14q24y13z16e8W15Z19L18M14D17f10816218k13d13j1257b10H9v18a13711313914+11n11t16112P12x6m9="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1787_pre_large": {
+    "name": "September Release Large",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "Moonlight ripples across this large egg's shell",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i16V17B36O16R18w11014K18G16g23o20A59N12S20U28h14E22c17C14Y13/14613T10X15I21r19s12420Q24Z12J12F17u11l15q19112y14212d14z8a14m10f16k14M18W22e13b12P16p12L15H15311n11816v15520913716+9j10x4D12t7="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1788_pre_smooth": {
+    "name": "September Release Smooth",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "Moonlight ripples across this smooth egg's shell",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research.",
+    "habitats": [],
+    "eggs": [
+      "i6V22B18O16R16w20010K15G11g18o11A43N15S15U14h20E19Y13C16D14+13v15111L15X14I20r17s7413c1568Q13k13d16J6F14u11l15a8T7t9x10j13P11b15M18f20p17z15n11y1538910815715515H5W8/12q10Z9m8e9210="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
+  },
+  "1789_pre_small": {
+    "name": "September Release Small",
+    "hasBSA": false,
+    "isHybrid": false,
+    "encyclopedia_notyet": 1,
+    "rarity": 1,
+    "description": "Moonlight ripples across this small egg's shell",
+    "note": "WIP: This breed was recently released and information about it is still undergoing research",
+    "habitats": [],
+    "eggs": [
+      "i10V9B10O7R8w1406K9G5g17o17A50N9S10U9h5E1043P4C11Y7D12F1255X9I17r6s10c866Q11J591018k5u8Z8+7l3L11M11x5q13j6z9m8t5f937v9b4a7W8e9T6d7n772H626y3/2p28="
+    ],
+    "required": {},
+    "sprite_descriptions": {
+      "eggs": [
+        "Stage 0 Egg"
+      ]
+    },
+    "equivalent_sprites": [],
+    "encyclopedia": "",
+    "morphology": "",
+    "affinity": [],
+    "body_type": ""
   }
 }
