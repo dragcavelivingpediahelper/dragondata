@@ -21181,14 +21181,17 @@
     "body_type": "western"
   },
   "1786_pre_fragile": {
-    "name": "September Release Regular",
+    "name": "September Release Fragile",
     "hasBSA": false,
     "isHybrid": false,
     "encyclopedia_notyet": 1,
     "rarity": 1,
     "description": "Moonlight ripples across this fragile egg's shell",
     "note": "WIP: This breed was recently released and information about it is still undergoing research.",
-    "habitats": [],
+    "habitats": [
+      "Alpine",
+      "Forest"
+    ],
     "eggs": [
       "i13V20B20O16R26w14018K22G14g30o20A45N16S16U25h9E15c12C21Y11/1469T14l15Q22I1959W12X11b10M15F15Z7k12D13n13q11e12J15t9122P14211y18922L15a11v15f11j1078317+11z17H8814p14m11d12s12x8r14u10413=2"
     ],
